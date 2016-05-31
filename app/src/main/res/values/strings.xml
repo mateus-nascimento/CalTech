@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalTech</string>
+    <string name="title_activity_modelo">ModeloActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
